@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Added in 20200911, to not to upload any docs.
-.txt
-.pdf
-.xml
+*.txt
+*.pdf
+*.xml
+*.png
